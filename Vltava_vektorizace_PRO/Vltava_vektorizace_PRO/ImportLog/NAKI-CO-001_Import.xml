@@ -1,0 +1,31 @@
+<ImportMXDLog>	<Messages>
+		<FileName>C:\Users\xxx\Documents\GitHub\projekt_Vltava_prace\vektorizace\NAKI-CO-001.mxd</FileName>
+		<Message>
+			<Name></Name>
+			<MessageType>Error</MessageType>
+			<Severity>High</Severity>
+			<Description>Layer&apos;s data source is inaccessible</Description>
+			<Code>00003</Code>
+			<ComponentName>TEST_publikaci\mozaika_ALL_v2</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Footprint</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Boundary</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+</Messages>
+</ImportMXDLog>
